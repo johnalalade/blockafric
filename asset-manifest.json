@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blockafric/static/css/main.31810702.chunk.css",
+    "main.js": "/blockafric/static/js/main.b8ba2f89.chunk.js",
+    "main.js.map": "/blockafric/static/js/main.b8ba2f89.chunk.js.map",
+    "runtime-main.js": "/blockafric/static/js/runtime-main.cf832433.js",
+    "runtime-main.js.map": "/blockafric/static/js/runtime-main.cf832433.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/blockafric/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0f5fcdb9.chunk.js": "/blockafric/static/js/2.0f5fcdb9.chunk.js",
+    "static/js/2.0f5fcdb9.chunk.js.map": "/blockafric/static/js/2.0f5fcdb9.chunk.js.map",
+    "static/js/3.ae494991.chunk.js": "/blockafric/static/js/3.ae494991.chunk.js",
+    "static/js/3.ae494991.chunk.js.map": "/blockafric/static/js/3.ae494991.chunk.js.map",
+    "index.html": "/blockafric/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/blockafric/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.31810702.chunk.css.map": "/blockafric/static/css/main.31810702.chunk.css.map",
+    "static/js/2.0f5fcdb9.chunk.js.LICENSE.txt": "/blockafric/static/js/2.0f5fcdb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf832433.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0f5fcdb9.chunk.js",
+    "static/css/main.31810702.chunk.css",
+    "static/js/main.b8ba2f89.chunk.js"
+  ]
+}
